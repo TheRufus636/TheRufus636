@@ -42,7 +42,7 @@ Recién titulado en el **Grado Superior de Desarrollo de Aplicaciones Multiplata
 ¿Quieres hablar conmigo, proponerme una colaboración u ofrecerme una oportunidad? ¡Escríbeme!
  
 - 📧 **Email:** adrianperalvarez@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/adrianperalvarez)
+- 💼 **LinkedIn:** [linkedin.com/in/mi-perfil](https://www.linkedin.com/in/adrianperalvarez)
 - 🐙 **GitHub:** [github.com/TheRufus636](https://github.com/TheRufus636)
 ---
  
