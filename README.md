@@ -36,41 +36,14 @@ Recién titulado en el **Grado Superior de Desarrollo de Aplicaciones Multiplata
  
 ---
  
-## 📂 Proyectos destacados
- 
-> Aquí iré añadiendo mis proyectos más relevantes. ¡Echa un vistazo a mis repositorios!
- 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 🔹 *Nombre del proyecto* | Breve descripción de lo que hace | Kotlin, Android Studio |
-| 🔹 *Nombre del proyecto* | Breve descripción de lo que hace | Java, IntelliJ |
-| 🔹 *Nombre del proyecto* | Breve descripción de lo que hace | Python, VS Code |
- 
----
- 
-## 🎯 Objetivos actuales
- 
-- Conseguir mi primera experiencia profesional como desarrollador
-- Profundizar en el desarrollo Android con Kotlin
-- Mejorar mis conocimientos de arquitectura y buenas prácticas
-- Seguir construyendo proyectos personales para ampliar mi portfolio
----
- 
-## 📊 Estadísticas de GitHub
- 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" alt="Lenguajes más usados" />
-</p>
----
  
 ## 📫 Contacto
  
 ¿Quieres hablar conmigo, proponerme una colaboración u ofrecerme una oportunidad? ¡Escríbeme!
  
-- 📧 **Email:** tu_correo@ejemplo.com
+- 📧 **Email:** adrianperalvarez@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
-- 🐙 **GitHub:** [github.com/TU_USUARIO](https://github.com/TU_USUARIO)
+- 🐙 **GitHub:** [github.com/TU_USUARIO](https://github.com/TheRufus636)
 ---
  
 <p align="center">
