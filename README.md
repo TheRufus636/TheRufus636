@@ -1,16 +1,78 @@
-## Hi there 👋
-
-<!--
-**TheRufus636/TheRufus636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ¡Hola! Soy Adrián Peralvarez Nuñez 👋
+ 
+### 💻 Desarrollador de Aplicaciones Multiplataforma · Perfil Junior
+ 
+Recién titulado en el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona aprender, resolver problemas y construir aplicaciones que funcionen bien y sean útiles. Estoy buscando mi primera oportunidad profesional para seguir creciendo como desarrollador.
+ 
+---
+ 
+## 🧑‍💻 Sobre mí
+ 
+- 🎓 Graduado en **DAM** (Desarrollo de Aplicaciones Multiplataforma)
+- 🌱 Perfil **junior** con muchas ganas de aprender y aportar al equipo
+- 📱 Interesado en el desarrollo de aplicaciones móviles y de escritorio
+- 🔍 Siempre explorando nuevas tecnologías y buenas prácticas
+- 🚀 Abierto a prácticas, colaboraciones y primeras experiencias laborales
+---
+ 
+## 🛠️ Tecnologías
+ 
+### Lenguajes
+ 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ 
+### Entornos de desarrollo (IDEs)
+ 
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+ 
+### Herramientas
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ 
+---
+ 
+## 📂 Proyectos destacados
+ 
+> Aquí iré añadiendo mis proyectos más relevantes. ¡Echa un vistazo a mis repositorios!
+ 
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🔹 *Nombre del proyecto* | Breve descripción de lo que hace | Kotlin, Android Studio |
+| 🔹 *Nombre del proyecto* | Breve descripción de lo que hace | Java, IntelliJ |
+| 🔹 *Nombre del proyecto* | Breve descripción de lo que hace | Python, VS Code |
+ 
+---
+ 
+## 🎯 Objetivos actuales
+ 
+- Conseguir mi primera experiencia profesional como desarrollador
+- Profundizar en el desarrollo Android con Kotlin
+- Mejorar mis conocimientos de arquitectura y buenas prácticas
+- Seguir construyendo proyectos personales para ampliar mi portfolio
+---
+ 
+## 📊 Estadísticas de GitHub
+ 
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" alt="Lenguajes más usados" />
+</p>
+---
+ 
+## 📫 Contacto
+ 
+¿Quieres hablar conmigo, proponerme una colaboración u ofrecerme una oportunidad? ¡Escríbeme!
+ 
+- 📧 **Email:** tu_correo@ejemplo.com
+- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
+- 🐙 **GitHub:** [github.com/TU_USUARIO](https://github.com/TU_USUARIO)
+---
+ 
+<p align="center">
+  ⭐ ¡Gracias por visitar mi perfil! ⭐
+</p>
